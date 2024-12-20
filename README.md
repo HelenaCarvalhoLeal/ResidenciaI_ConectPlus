@@ -1,4 +1,4 @@
-# ConectaPlus-Application
+# ConectPlus
 
 A aplicação foi criada como projeto para o disciplina de Residência II pela Universidade Tiradentes.
 

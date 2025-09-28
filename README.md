@@ -44,6 +44,10 @@ O **Conecta+** é uma plataforma online que conecta empresas e profissionais de 
   - Caso aceite, há um prazo para análise.  
   - O suporte é remunerado com uma porcentagem do valor da tarefa original.  
   - A formação de parceria exige aceite de todos os envolvidos.
+ 
+## Concorrentes 
+![Fluxo](ConectaMais_Concorrentes.jpg)
+
 
 ## MVP do Sistema
 

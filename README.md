@@ -6,6 +6,45 @@ A aplicação foi criada como projeto para o disciplina de Residência II pela U
 
 De acordo com a Associação Brasileira de Empresas de Software, o Brasil apresentou um crescimento de 22,9% na área de TI. Assim, a nossa empresa quer aproveitar a oportunidade deste mercado crescente e com previsão de procura por 420 mil profissionais de TI até 2024, isso, segundo a Brasscom, Associação Brasileira das Empresas de Tecnologia da Informação e Comunicação. Logo, com o aumento da demanda por soluções tecnológicas, justifica-se a necessidade da criação do site Conecta+. O site proporciona uma comunidade autossustentável e resolvedora de problemas nas diversas áreas de TI, por meio da interação entre pessoas físicas e jurídicas por ações individuais ou em parceria. Aqui o cliente aprende com quem resolve os problemas na prática, por isso os profissionais podem ser contactados para ensinar, os quais também aprendem pelos projetos que desenvolvem e são remunerados por meio de cash e também ganham pontuação pela qualidade do seu serviço, além de oferecer um fórum para a Networking. Não estamos voltados apenas para o "trabalho decente", mas também ao aprendizado. Diferentemente da concorrência, na nossa plataforma as soluções são remuneradas, pontuadas e rankeadas. Venha conosco e adapte-se à era digital como Conecta+.
 
+## 0. Definição do Aplicativo
+O **Conecta+** é uma plataforma online que conecta empresas e profissionais de TI, programação e áreas correlatas. Dependendo da demanda, também pode incluir especialistas em negócios, oferecendo soluções sob medida para diferentes tipos de problemas. O Conecta+ promove um ecossistema colaborativo que recompensa **competência, reputação e networking**, incentivando tanto o crescimento profissional quanto a geração de oportunidades reais de emprego e empreendedorismo.
+
+## Funcionalidades
+
+- **Ranking de Profissionais**  
+  Profissionais são avaliados e pontuados em cada área de atuação, facilitando a escolha por parte de quem contrata.
+
+- **Gestão de Prazos e Pontuação**  
+  Cada tarefa possui prazos definidos. O cumprimento ou descumprimento das metas gera ganho ou perda de pontos para os profissionais.
+
+- **Trabalhos Individuais ou em Grupo**  
+  Flexibilidade para realização de projetos de forma independente ou colaborativa.
+
+- **Sistema de Remuneração**  
+  Problemas são remunerados em dinheiro (*cash*). O Conecta+ retém uma porcentagem do valor, assim como outros aplicativos de referência (ex.: Uber, iFood).  
+  Além disso, uma **pontuação adicional** é concedida, proporcional ao valor pago e à complexidade da solução entregue.
+
+- **Fóruns de Networking**  
+  Espaço para interação entre profissionais e empresas, incentivando parcerias e estratégias de empreendedorismo.
+
+- **Desbloqueio por Pontuação**  
+  Ao atingir determinadas pontuações, o usuário ganha acesso a desafios mais complexos e pode obter **contato direto com empresas**, ampliando as oportunidades de empregabilidade.
+
+- **Soluções Públicas ou Privadas**  
+  O contratante decide se o problema será público ou privado.  
+  - **Público**: o contratante recebe pontuação de volta se for bem avaliado pelo contratado, fortalecendo sua reputação na plataforma.  
+  - **Privado**: restrito apenas às partes envolvidas.
+
+- **Suporte e Dúvidas**  
+  Suporte integrado para auxílio durante o processo de solução.
+
+- **Premium**  
+  Usuários podem acionar profissionais mais qualificados em caso de dificuldade para cumprir prazos ou solucionar problemas.  
+  - O profissional premium pode aceitar ou não o chamado.  
+  - Caso aceite, há um prazo para análise.  
+  - O suporte é remunerado com uma porcentagem do valor da tarefa original.  
+  - A formação de parceria exige aceite de todos os envolvidos.
+
 ## MVP do Sistema
 
 A aplicação apresenta um fluxo de telas que abrange as seguintes páginas: inicial, login, cadastro e perfil do usuário. A página inicial oferece links para as abas: "Home", "Ranking", "Perfis", "Projetos Disponíveis" e "Fórum". Ao acessar o site, o usuário pode clicar no botão "Login/Cadastro", permitindo realizar o cadastro e, em seguida, efetuar o login. Após o login, o usuário é redirecionado para a página de perfil, que inclui um botão "Sair". Esse botão possibilita o retorno à página inicial, permitindo repetir o ciclo de navegação conforme necessário.

@@ -2,6 +2,12 @@
 ![Fluxo](GrowUp.png)
 A aplicação foi criada como projeto para o disciplina de Residência II pela Universidade Tiradentes.
 
+## Pitch
+
+De acordo com a Associação Brasileira de Empresas de Software, o Brasil apresentou um crescimento de 22,9% na área de TI. Assim, a nossa empresa quer aproveitar a oportunidade deste mercado crescente e com previsão de procura por 420 mil profissionais de TI até 2024, isso, segundo a Brasscom, Associação Brasileira das Empresas de Tecnologia da Informação e Comunicação. Logo, com o aumento da demanda por soluções tecnológicas, justifica-se a necessidade da criação do site Conecta+. O site proporciona uma comunidade autossustentável e resolvedora de problemas nas diversas áreas de TI, por meio da interação entre pessoas físicas e jurídicas por ações individuais ou em parceria. Aqui o cliente aprende com quem resolve os problemas na prática, por isso os profissionais podem ser contactados para ensinar, os quais também aprendem pelos projetos que desenvolvem e são remunerados por meio de cash e também ganham pontuação pela qualidade do seu serviço, além de oferecer um fórum para a Networking. Não estamos voltados apenas para o "trabalho decente", mas também ao aprendizado. Diferentemente da concorrência, na nossa plataforma as soluções são remuneradas, pontuadas e rankeadas. Venha conosco e adapte-se à era digital como Conecta+.
+
+## MVP do Sistema
+
 A aplicação apresenta um fluxo de telas que abrange as seguintes páginas: inicial, login, cadastro e perfil do usuário. A página inicial oferece links para as abas: "Home", "Ranking", "Perfis", "Projetos Disponíveis" e "Fórum". Ao acessar o site, o usuário pode clicar no botão "Login/Cadastro", permitindo realizar o cadastro e, em seguida, efetuar o login. Após o login, o usuário é redirecionado para a página de perfil, que inclui um botão "Sair". Esse botão possibilita o retorno à página inicial, permitindo repetir o ciclo de navegação conforme necessário.
 
 ## Tutorial para inicializar o sistema

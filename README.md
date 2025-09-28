@@ -58,3 +58,6 @@ De forma detalhada:
 8. **package-lock.json**: Arquivo que garante a consistência das versões das dependências instaladas em um projeto Node.js, assegurando reprodutibilidade e segurança nas instalações.
 9. **package.json**: Arquivo para gerenciar as dependências do projeto e scripts de inicialização.
 10. **.gitignore**: arquivo contendo o `node_modules`.
+
+#Fgma
+Figma: https://www.figma.com/design/5ayBn5KzvjctjQ0bM3u7mR/Conecta--?node-id=0-1&p=f&t=APF5phOQaUVzIkW7-0

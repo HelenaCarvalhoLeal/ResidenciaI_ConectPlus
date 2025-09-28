@@ -81,6 +81,15 @@ Além disso, o GitHub também oferece ferramentas para documentação, organiza�
 O diferencial do Conecta+ está no foco em **remuneração direta** e na **resolução de problemas reais**, com um sistema de ranking que classifica os profissionais por desempenho em cada área.  
 Enquanto o GitHub foca na **colaboração de código e projetos open source**, o Conecta+ foca em **desafios práticos** e **mercado de trabalho remunerado**.
 
+## Matriz CSD (Certezas, Suposições e Dúvidas)
+
+| Certezas                                                                 | Suposições                                                       | Dúvidas                                   |
+|--------------------------------------------------------------------------|------------------------------------------------------------------|-------------------------------------------|
+| O site é referente a pessoas físicas e jurídicas com problemas em programação | Alta demanda de profissionais em TI pela qual empresas estão dispostas a contratar | Quais seriam os empecilhos para a não adesão ao site? |
+| O site lida com a questão da empregabilidade                             | Oferta: Faltam profissionais qualificados no mercado de TI       | Como ganhar confiabilidade?                |
+| O site é uma plataforma de e-commerce que intermedia transação e pagamento pelos serviços prestados. É utilizado por freelances | Muitos gestores não possuem plano de negócio                     | Como chegariam no nosso site?              |
+
+
 
 ## MVP do Sistema
 

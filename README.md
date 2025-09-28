@@ -46,7 +46,40 @@ O **Conecta+** é uma plataforma online que conecta empresas e profissionais de 
   - A formação de parceria exige aceite de todos os envolvidos.
  
 ## Concorrentes 
-![Fluxo](ConectaMais_Concorrentes.jpg)
+![Concorrentes](ConectaMais_Concorrentes.jpg)
+
+### Fiverr
+O **Fiverr** é um mercado online que conecta freelancers a clientes em diversas áreas, como:
+- redação,
+- design gráfico,
+- programação,
+- tradução,
+- marketing digital, entre outras.  
+
+No Fiverr, os freelancers criam perfis, listam seus serviços e definem preços. Já os clientes podem navegar entre as opções, comparar profissionais e contratar quem melhor atende às suas necessidades.  
+A plataforma oferece **segurança e transparência** no processo de contratação e pagamento, além de ser global, permitindo que pessoas talentosas ofereçam seus serviços de forma independente.  
+
+**Contraproposta – Conecta+**  
+Diferente do Fiverr, que parte da **oferta de serviços** do freelancer, o Conecta+ parte da **demanda do contratante**.  
+- No Fiverr: o contratado exibe suas habilidades e espera ser acionado.  
+- No Conecta+: o contratante disponibiliza seu problema e busca soluções sob medida.  
+
+---
+
+### GitHub
+O **GitHub** é uma plataforma de hospedagem de código-fonte e colaboração para desenvolvedores.  
+Seus principais recursos incluem:  
+- criação e gerenciamento de repositórios,  
+- versionamento de código,  
+- controle de alterações,  
+- gerenciamento de issues,  
+- colaboração via *pull requests* e revisões de código.  
+
+Além disso, o GitHub também oferece ferramentas para documentação, organização de projetos e é referência mundial no desenvolvimento de **software de código aberto**.  
+
+**Contraproposta – Conecta+**  
+O diferencial do Conecta+ está no foco em **remuneração direta** e na **resolução de problemas reais**, com um sistema de ranking que classifica os profissionais por desempenho em cada área.  
+Enquanto o GitHub foca na **colaboração de código e projetos open source**, o Conecta+ foca em **desafios práticos** e **mercado de trabalho remunerado**.
 
 
 ## MVP do Sistema
